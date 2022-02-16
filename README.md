@@ -2,6 +2,7 @@
 
 Example implementation of an [OpenAI Gym](http://gym.openai.com/) environment,
 to illustrate problem representation for [RLlib](https://rllib.io/) use cases.
+We use a simple Gridworld setup as an environment.
 
 ## Usage
 
