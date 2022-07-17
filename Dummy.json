@@ -1,24 +1,24 @@
 [
   {
-    "Current": 47,
-    "JSON_status": {
+    "current": 47,
+    "json_status": {
       "created_on": 1521897882000,
       "error_message": ""
     },
     "name": "BWL",
-    "Opening_hours": [
+    "opening_hours": [
       1521882000000,
       1521928800000
     ],
-    "Open_status": true,
-    "Red_status": [
+    "open_status": true,
+    "red_status": [
       1,
       2,
       3,
       4,
       5
     ],
-    "Today_actual": [
+    "today_actual": [
       1,
       2,
       3,
@@ -31,7 +31,7 @@
       9,
       10
     ],
-    "Today_predicted": [
+    "today_predicted": [
       2,
       3,
       4,
@@ -44,7 +44,7 @@
       10,
       11
     ],
-    "Tomorrow": [
+    "tomorrow": [
       3,
       4,
       5,
@@ -57,8 +57,8 @@
       12,
       13
     ],
-    "Trend": 1,
-    "Week_before": [
+    "trend": 1,
+    "week_before": [
       1,
       2,
       3,
@@ -71,7 +71,7 @@
       11,
       12
     ],
-    "Yesterday": [
+    "yesterday": [
       4,
       5,
       6,
