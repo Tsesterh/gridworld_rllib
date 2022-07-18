@@ -172,6 +172,92 @@
     ]
   },
   {
+    "current": 9,
+    "json_status": {
+      "created_on": 1521897882000,
+      "error_message": ""
+    },
+    "name": "Gemullas Buero",
+    "opening_hours": [
+      1521882000000,
+      1521928800000
+    ],
+    "open_status": true,
+    "red_status": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "today_actual": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      8,
+      9,
+      10
+    ],
+    "today_predicted": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      9,
+      10,
+      11
+    ],
+    "tomorrow": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "trend": 0,
+    "week_before": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12
+    ],
+    "yesterday": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
     "current": 10,
     "json_status": {
       "created_on": 1521897882000,
